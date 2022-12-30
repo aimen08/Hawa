@@ -1152,10 +1152,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@expo-google-fonts/space-grotesk@^0.2.2":
+"@expo-google-fonts/poppins@^0.2.2":
   version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@expo-google-fonts/space-grotesk/-/space-grotesk-0.2.2.tgz#96df4663a4a45fa14faf569cf8b311ad019b49dc"
-  integrity sha512-KesfcuS+OUvs3itJUTd89TLzkFNcFsyG1tRQm2GxirErLpHbG/bLErNloFQabeCRaBY5gOheN3VKlGC3w4WJ5g==
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/poppins/-/poppins-0.2.2.tgz#d2a343fa69400ffbaf61ae97162791a59e215678"
+  integrity sha512-x0SzC8nWTC2pInIcBDiAuMJxhoglwqCGJYMM8ylI8HKDqBxMrfRTripB3xMGo6UtzROTcL+OX1w9nEcM5FK0PQ==
 
 "@expo/bunyan@3.0.2":
   version "3.0.2"
