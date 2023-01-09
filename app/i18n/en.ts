@@ -4,11 +4,19 @@ const en = {
     cancel: "Cancel",
     back: "Back",
   },
-  welcomeScreen: {
-    postscript:
-      "psst  — This probably isn't what your app looks like. (Unless your designer handed you these screens, and in that case, ship it!)",
-    readyForLaunch: "Your app, almost ready for launch!",
-    exciting: "(ohh, this is exciting!)",
+  OnboardingScreen: {
+    onb1: {
+      title: "Find The Best Service",
+      description: "There are various services from the best salons that have become our partners.",
+    },
+    onb2: {
+      title: "Best Stylist For You",
+      description: "Styling your appearance according to your lifestyle",
+    },
+    onb3: {
+      title: "Meet Our Specialists",
+      description: "There are many best stylists from all the best salons ever",
+    },
   },
   errorScreen: {
     title: "Something went wrong!",
